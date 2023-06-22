@@ -50,9 +50,9 @@ imagem da cobra png
                                                              IMAGEM do layout do inicio do jogo
 #                                           Tela inicial do jogo, consiste em 3 botões que se pode interagir:
 
-## *HIGHSCORE - Mostra a tabela de melhore pontuações
-## *COMBINAÇÕES - Combinações de cores e os seus resultados
-## *PLAY - Começa o jogo
+#### *HIGHSCORE - Mostra a tabela de melhore pontuações
+#### *COMBINAÇÕES - Combinações de cores e os seus resultados
+#### *PLAY - Começa o jogo
 
            imagem da cobra com direções dentro do jogo           imagem da cobra com direções dentro do jogo
 
