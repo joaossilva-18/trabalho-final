@@ -67,7 +67,7 @@ Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na t
 
 #                                                                 Vídeo de promoção / explicação do jogo
 
-vidoeo- https://www.youtube.com/shorts/ETpwQaJfmu4
+ Link- https://www.youtube.com/shorts/ETpwQaJfmu4
 
 #                                                                 Merchandising
 
