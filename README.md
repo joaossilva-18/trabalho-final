@@ -20,6 +20,11 @@
 
 ## Melancia - A Cobra volta à cor original  
 
-
-
-
+                                                                                imagem da cobra castanha a comer o coco
+                                                                                Cobra antes de comer o coco
+       imagem do coco   
+                                                                                imagem da cobra após comer o coco
+                                                                                Cobra morta por ter comido o coco
+                                                                                
+## Coco- Mata a cobra
+                                                                           
