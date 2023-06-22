@@ -27,4 +27,13 @@
                                                                                 Cobra morta por ter comido o coco
                                                                                 
 ## Coco- Mata a cobra
-                                                                           
+
+                                                                                 imagem da cobra com direções
+
+imagem da cobra png 
+
+                                                                                 imagem da cobra com direções
+
+## Cobra
+
+                                                                                 
