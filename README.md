@@ -45,3 +45,23 @@ imagem da cobra png
 ## Maçã verde
                                                                                  imagem da maçã em azul
 ## Maçã Azul
+
+
+                                                             IMAGEM do layout do inicio do jogo
+#                                           Tela inicial do jogo, consiste em 3 botões que se pode interagir:
+
+## *HIGHSCORE - Mostra a tabela de melhore pontuações
+## *COMBINAÇÕES - Combinações de cores e os seus resultados
+## *PLAY - Começa o jogo
+
+           imagem da cobra com direções dentro do jogo           imagem da cobra com direções dentro do jogo
+
+## Movimento do personagem:
+A cobra segue em direção oposta à posição do cursor como se dele estivesse a fugir. 
+
+           imagem da LISTA da combinção de cores                      imagem da conjução/combinação das cores
+
+## Lista de Combinações:
+Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na tela inicial irá levar a uma tela onde pode clicar em qual das combinações de cor quer ver.
+
+
