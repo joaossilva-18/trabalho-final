@@ -36,4 +36,12 @@ imagem da cobra png
 
 ## Cobra
 
-                                                                                 
+
+                                                                                 imagem da maçã vermelha
+## Maçã Vermelha
+                                                                                 imagem da maça amarela
+## Maçã Amarela
+                                                                                 imagem da maçã em verde
+## Maçã verde
+                                                                                 imagem da maçã em azul
+## Maçã Azul
