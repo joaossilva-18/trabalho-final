@@ -65,3 +65,6 @@ A cobra segue em direção oposta à posição do cursor como se dele estivesse 
 Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na tela inicial irá levar a uma tela onde pode clicar em qual das combinações de cor quer ver.
 
 
+#                                                                 Vídeo de promoção / explicação do jogo
+
+
