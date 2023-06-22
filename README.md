@@ -12,6 +12,7 @@ let menu = true;
 let customColor = false;
 let snakeColor;
 
+// Mapeamento de cores
 const colorMapping = {
   red: [255, 0, 0],
   blue: [0, 0, 255],
@@ -40,17 +41,17 @@ function draw() {
     text("Press 'C' to customize the snake color", width / 2, height / 2 + 50);
   } else {
     if (!paused) {
-      
+      // Atualizar a posição da cobra para ser afastada pelo cursor
       let target = createVector(mouseX, mouseY);
       let dir = p5.Vector.sub(snake.pos, target).normalize();
       snake.update(dir);
 
-      
+      // Desenhar a cobra
       fill(snakeColor[0], snakeColor[1], snakeColor[2]);
       noStroke();
       snake.show();
 
-      
+      // Desenhar a comida
       if (snakeColor === colorMapping.red) {
         fill(255, 0, 0); // Vermelho
       } else if (snakeColor === colorMapping.blue) {
@@ -63,7 +64,7 @@ function draw() {
       noStroke();
       ellipse(food.x, food.y, 10, 10);
 
-      
+      // Verificar se a cobra comeu a comida
       if (dist(snake.pos.x, snake.pos.y, food.x, food.y) < 10) {
         // Atualizar a cor da cobra com base no mapeamento de cores
         for (let key in colorMapping) {
@@ -79,18 +80,18 @@ function draw() {
         points++;
       }
 
-      
+      // Verificar se a cobra bateu na parede
       if (snake.pos.x < 0 || snake.pos.x > width || snake.pos.y < 0 || snake.pos.y > height) {
         snake.reset();
         points = 0;
       }
 
-      
+      // Mostrar a pontuação
       textSize(20);
       fill(255);
       text("Points: " + points, 10, 30);
     } else {
-      
+      // Mostrar mensagem de pausa
       textSize(50);
       fill(255, 0, 0);
       textAlign(CENTER, CENTER);
@@ -134,7 +135,7 @@ class Snake {
   }
 
   update(dir) {
-
+    // Adicionar um pouco de aleatoriedade aos movimentos da cobra
     dir.rotate(random(-PI / 4, PI / 4));
     this.vel.add(dir);
     this.pos.add(this.vel);
