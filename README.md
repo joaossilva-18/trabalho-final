@@ -67,4 +67,6 @@ Ao clicar na tecla C ou clicar no botão ‘’COMBINAÇÕES’’ presente na t
 
 #                                                                 Vídeo de promoção / explicação do jogo
 
+                                                                 https://www.youtube.com/shorts/ETpwQaJfmu4
 
+                                                                 
